@@ -7,7 +7,7 @@ package br.com.gleibsonalves.github.java.se;
  * @author Gleibson Alves
  *Exemplo de Integração do Eclipse com GitHub
  */
-public class JuncaoGitJava {
+public class Introducao {
 
 	public static void main(String[] args) {
 		
